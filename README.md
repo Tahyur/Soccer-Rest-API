@@ -6,3 +6,5 @@ This is an API that was developed using Spring Boot to consume another Soccer AP
 It contains lots of custom functionalities implemented based on the purpose of this application
 
 This project follws the MVC architectural pattern
+
+A soccer client is also available in my repository which consumes the API
